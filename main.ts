@@ -22,6 +22,3 @@ pins.setPull(DigitalPin.P1, PinPullMode.PullUp)
 loops.everyInterval(500, function () {
     lcd16x2rgb.writeText(lcd16x2rgb.eADDR_LCD.LCD_16x2, 0, 0, 15, lcd16x2rgb.eAlign.left, bit.formatNumber(qwiicgpio.readINPUT_PORT(qwiicgpio.eADDR.GPIO_Qwiic), bit.eLength.BIN_11111111))
 })
-basic.forever(function () {
-	
-})
