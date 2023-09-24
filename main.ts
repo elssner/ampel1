@@ -10,7 +10,7 @@ lcd16x2rgb.initLCD(lcd16x2rgb.eADDR_LCD.LCD_16x2)
 qwiicgpio.setMode(
 qwiicgpio.eADDR.GPIO_Qwiic,
 qwiicgpio.eIO.IN,
-qwiicgpio.eIO.OUT,
+qwiicgpio.eIO.IN_inverted,
 qwiicgpio.eIO.OUT,
 qwiicgpio.eIO.OUT,
 qwiicgpio.eIO.OUT,
