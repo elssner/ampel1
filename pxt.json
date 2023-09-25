@@ -6,7 +6,7 @@
         "core": "*",
         "8io-qwiicgpio": "github:calliope-net/8io-qwiicgpio#v1.0.2",
         "lcd-16x2rgb": "github:calliope-net/lcd-16x2rgb#v1.0.2",
-        "bit": "github:calliope-net/bit#v1.0.3"
+        "bit": "github:calliope-net/bit#v1.0.6"
     },
     "files": [
         "README.md",
