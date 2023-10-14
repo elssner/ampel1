@@ -4,11 +4,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "8io-qwiicgpio": "github:calliope-net/8io-qwiicgpio#v1.0.2",
-        "lcd-16x2rgb": "github:calliope-net/lcd-16x2rgb#v1.0.2",
         "bit": "github:calliope-net/bit#v1.1.0",
-        "gpio": "github:calliope-net/8io-qwiicgpio#master",
-        "lcd-16x2": "github:calliope-net/lcd-16x2rgb#master"
+        "gpio": "github:calliope-net/gpio#v2.0.0",
+        "lcd-16x2": "github:calliope-net/lcd-16x2#v2.0.4"
     },
     "files": [
         "README.md",
