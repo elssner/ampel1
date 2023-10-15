@@ -1,5 +1,5 @@
 {
-    "name": "io-interrupt",
+    "name": "i2c-io-interrupt",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
